@@ -1,1 +1,1 @@
-# A demo project using firebase to load and add data from ReactJS using TypeScript
+# A demo project using Firebase and Redux Toolkit to load and add data from ReactJS using TypeScript
