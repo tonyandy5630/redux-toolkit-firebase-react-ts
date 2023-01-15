@@ -1,0 +1,12 @@
+.outline {
+  display: flex;
+  padding: 10px;
+  background-color: cyan;
+  margin: 3px;
+}
+
+.id {
+  margin: 0 3px;
+  color: black;
+  text-decoration: underline;
+}
